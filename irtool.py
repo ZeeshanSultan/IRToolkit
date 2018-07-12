@@ -53,7 +53,7 @@ def check_dep():
     	print "DEP Supported by Operating System"
 
 #########Business Logic
-'''
+#'''
 check_smep()
 check_smap()
 check_uefi()
